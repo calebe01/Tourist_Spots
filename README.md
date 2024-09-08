@@ -1,6 +1,6 @@
 # Exercício Prático: HTML e CSS
 
-Este repositório contém um exercício prático focado no desenvolvimento de uma página web utilizando HTML, CSS e, eventualmente, JavaScript. O objetivo deste projeto é aplicar e reforçar os conceitos aprendidos sobre estruturação de páginas web, estilização e interatividade.
+Este repositório contém um exercício prático focado no desenvolvimento de uma página web utilizando HTML e CSS. O objetivo deste projeto é aplicar e reforçar os conceitos aprendidos sobre estruturação de páginas web, estilização e interatividade.
 
 ## 📋 Descrição
 
